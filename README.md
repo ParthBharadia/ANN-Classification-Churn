@@ -104,6 +104,11 @@ scikit-learn==1.3.0
 
 ---
 
+## Project Snapshot
+![Screenshot 2025-06-26 212922](https://github.com/user-attachments/assets/f4281232-09fe-40ea-8f0c-c3649522f447)
+
+---
+
 ## 🧠 Model Details
 
 * **Framework**: TensorFlow / Keras
